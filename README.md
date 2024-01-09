@@ -1,3 +1,3 @@
 - 👋 Hi, I'm Sandun Perera, a passionate web developer.
-- 💼 Currently working as an Associate Engineer. (Pega)
+- 💼 Currently working as an Associate Engineer. (Certified Pega Senior System Architect)
 - 📧 Write me for my email - gsmpereraw@gmail.com
